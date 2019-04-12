@@ -1,0 +1,21 @@
+{
+  "name": "cordova-plugin-jsbridge",
+  "version": "1.0.0",
+  "description": "jsbridge",
+  "cordova": {
+    "id": "cordova-plugin-jsbridge",
+    "platforms": [
+      "ios",
+      "android",
+      "browser"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-browser"
+  ],
+  "author": "beyondspider",
+  "license": "MIT"
+}
